@@ -1,0 +1,93 @@
+name: release
+
+# Triggered via API (workflow_dispatch). The `bump` input decides which
+# semver element is increased: major, minor or patch.
+on:
+  workflow_dispatch:
+    inputs:
+      bump:
+        description: "Which version element to increase"
+        type: choice
+        required: true
+        default: patch
+        options:
+          - major
+          - minor
+          - patch
+
+# The job creates a tag and publishes a GitHub Release: it needs write access.
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      # fetch-depth: 0 so all existing tags are available for version discovery
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 1. Compute the new version from the latest git tag + the bump parameter
+      - name: Compute version
+        id: version
+        run: |
+          set -euo pipefail
+          git fetch --tags --force
+          latest="$(git tag --list --sort=-v:refname | head -n1)"
+          [ -z "$latest" ] && latest="0.0.0"
+          echo "latest tag: $latest"
+          IFS='.' read -r MAJOR MINOR PATCH <<< "${latest#v}"
+          case "${{ inputs.bump }}" in
+            major) MAJOR=$((MAJOR + 1)); MINOR=0; PATCH=0 ;;
+            minor) MINOR=$((MINOR + 1)); PATCH=0 ;;
+            patch) PATCH=$((PATCH + 1)) ;;
+            *) echo "::error::unknown bump '${{ inputs.bump }}'"; exit 1 ;;
+          esac
+          VERSION="${MAJOR}.${MINOR}.${PATCH}"
+          echo "new version: $VERSION"
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      # 2. Compile with the required flags into binaries/tris-<version>.
+      #    The binary is written to the runner only; it is not committed.
+      #    3. Gate: fail on ANY compiler error OR warning (non-empty stderr).
+      - name: Build (fails on errors or warnings)
+        run: |
+          set -uo pipefail
+          VERSION="${{ steps.version.outputs.version }}"
+          mkdir -p binaries
+          cc -W -Wall -O2 src/main.c -o "binaries/tris-${VERSION}" 2> build.log
+          code=$?
+          if [ "$code" -ne 0 ]; then
+            echo "::error::compilation failed (exit $code)"
+            cat build.log
+            exit 1
+          fi
+          if [ -s build.log ]; then
+            echo "::error::compiler emitted warnings — refusing to release"
+            cat build.log
+            exit 1
+          fi
+          echo "built binaries/tris-${VERSION} cleanly"
+
+      # 4. Tag the source commit and publish a GitHub Release with the binary
+      #    attached as a public, directly-downloadable asset.
+      - name: Tag and publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          VERSION="${{ steps.version.outputs.version }}"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # source-code tag at the current commit, pushed to the remote
+          git tag "$VERSION"
+          git push origin "refs/tags/${VERSION}"
+
+          # create the release and upload the binary as a downloadable asset
+          gh release create "$VERSION" \
+            "binaries/tris-${VERSION}" \
+            --title "tris-${VERSION}" \
+            --notes "Automated release of tris-${VERSION}"
