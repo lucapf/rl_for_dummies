@@ -1,33 +1,6 @@
 # Release Pipeline
 
-## Trigger (API call)
-
-The workflow uses `workflow_dispatch`, so it can be started from the GitHub REST
-API. The single input `bump` selects which version element to increase:
-`major`, `minor` or `patch`.
-
-> **Prerequisite:** `release.yml` must already exist on the default branch
-> (`master`) before the API trigger is available.
-
-### REST endpoint
-
-```
-POST /repos/lucapf/rl_for_dummies/actions/workflows/release.yml/dispatches
-```
-
-Headers:
-
-```
-Authorization: Bearer <TOKEN>          # PAT with 'repo' (classic) or Actions:write (fine-grained)
-Accept: application/vnd.github+json
-X-GitHub-Api-Version: 2022-11-28
-```
-
-Body:
-
-```json
-{ "ref": "master", "inputs": { "bump": "patch" } }
-```
+## How to trigger the action 
 
 ### curl
 
