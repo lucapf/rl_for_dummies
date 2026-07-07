@@ -1,5 +1,4 @@
 #pragma  once
-
 #include <math.h>
 #include <stdlib.h>
 #include <stdio.h>
@@ -14,8 +13,17 @@
 #define  PRINT_CELL_ID 0
 #define  PRINT_PLACEHOLDER 1
 
+/* because rand doesn't really work */
+int bounded_rand(int range){
+  int divisor = RAND_MAX / range;  
+  int limit   = range * divisor;  
+  int r;
+  do { r = rand(); } while (r >= limit);
+  return r / divisor;
+}
+
 /* format a string in the form "something %d something else", 10
- * into "something 10 something else" 
+ * into "something 10 something else"
  */
 char * string_decimal_format(char* string , int decimal){
   int size =  snprintf(NULL,0, string, decimal);
@@ -47,7 +55,7 @@ char* build_cell_id(char* original_cell, unsigned char pos, char xo){
 
 struct linked_scenarios * build_root_scenario(struct linked_scenarios *all_scenarios){
     all_scenarios = malloc(sizeof(struct linked_scenarios));
-    char  *root_id = " ";
+    char  *root_id = "        ";
     char *id = build_cell_id(root_id, 0, ' '); //root node
     struct tris *root_scenario = build_scenario(id);
     all_scenarios->s = root_scenario;
@@ -60,6 +68,7 @@ struct linked_scenarios * build_root_scenario(struct linked_scenarios *all_scena
 
 
 struct linked_scenarios *init_linked_scenarios(){
+
   struct linked_scenarios *new_scenario = malloc(sizeof(struct linked_scenarios));
   char  root_id = ' ';
   char *id = build_cell_id(&root_id,0, root_id); //root node
@@ -67,16 +76,22 @@ struct linked_scenarios *init_linked_scenarios(){
   new_scenario->s = root_scenario;
   new_scenario->next = NULL;
   return new_scenario;
+
 };
 
-struct linked_scenarios *add_game_to_scenario( 
-    struct tris* scenario, struct linked_scenarios *g){
+
+struct linked_scenarios *add_game_to_scenario( struct tris* scenario, 
+                                               struct linked_scenarios *g){
+
   struct linked_scenarios *new_item = malloc(sizeof(struct linked_scenarios)); 
   new_item->s = scenario;
   new_item->player = g->player;
   new_item->next = g;
   return new_item;
+
 };
+
+
 /*return list of tree starting by the offset*/
 int tris_lookup(struct tris** list_of_tris,char * id ,int offset, int size){
  for (int i=offset;i<size;i++){
@@ -86,21 +101,21 @@ int tris_lookup(struct tris** list_of_tris,char * id ,int offset, int size){
 
 }
 struct tris *get_scenario_by_id(struct linked_scenarios * all_scenarios, char *cell_id){
-  struct linked_scenarios *current_scenario = all_scenarios;
-  while (current_scenario->next != NULL){
-    if (strcmp(current_scenario->s->id, cell_id) ==0){
-       return current_scenario->s; 
+  struct linked_scenarios *cursor = all_scenarios;
+  while (cursor->next != NULL){
+    if (strcmp(cursor->s->id, cell_id) ==0){
+       return cursor->s; 
     }
-    current_scenario = current_scenario->next;
+    cursor = cursor->next;
   }
   return NULL;
 };
 
 
 void print_game(struct tris *s, short print_mode ){
-  printf("|------||------------||\n");
-  printf("| moves|| weights    ||\n");
-  printf("|------||------------||\n|");
+  printf("|------||------------------------||\n");
+  printf("| moves|| weights                ||\n");
+  printf("|------||------------------------||\n|");
 
   int offset  = 0;
   for (int i=0;i< 2*NUM_CELLS; i++){
@@ -115,9 +130,9 @@ void print_game(struct tris *s, short print_mode ){
       char index_value[2];
       index_value[0]=s->id[i - offset ];
       index_value[1]='\0';
-      printf("%s ", s->id[i - offset]==' '?placeholder:index_value);
+      printf("%s ", s->id[i - offset] ==' '?placeholder:index_value);
     }else{
-      printf("%4d",s->weights[weight_index]);
+      printf("%8d",s->weights[weight_index]);
     }
     if ((i+1) % CELL_PER_ROW == 0) printf("||");
     if ((i+1) % ( 2*CELL_PER_ROW) == 0) printf("\n");

@@ -2,29 +2,36 @@
 #include <dirent.h>
 #include <regex.h>
 #include <stdlib.h>
+#include <string.h>
 #include "utils.c"
 
+#define MAX_WEIGHT_LENGHT 7
 
 struct tris* report_line_to_tris(char * line){
-        // cell_id
-        struct tris * t = malloc(sizeof(struct tris));
-        int i=0;
-        for (;i<NUM_CELLS; i++){ t->id[i] =line[i]; }
-        i++; //';'
-        //weights
-        char sw[10];
-        for (int j=0;j<10;j++) sw[j] =' ';
-        int swi = 0; int wc = 0; 
-        while (wc < NUM_CELLS) {
-          if (line[i]==','){
-            t->weights[wc++] = atoi(sw); swi =0;
-            for (int j=0;j<10;j++) sw[j] = ' ';
-          }else{
-            sw[swi++]=line[i];
-          }
-          i++;
-        }
-        return t;
+  struct tris *t  = malloc(sizeof(struct tris));
+  size_t line_length = strlen(line);
+  size_t line_cursor=0;
+  // copy cell_id
+  for (;line_cursor<NUM_CELLS; line_cursor++) {
+    t->id[line_cursor] =line[line_cursor]; 
+  }
+  t->id[NUM_CELLS] = '\0'; //termination for cell_id
+
+  // weigths are slightly more complicated
+  int weight_index=0;
+  char num[MAX_WEIGHT_LENGHT]; // the ascii part of '123'->123
+  int num_cursor = 0; //cursor to the ascii repres. of the num
+  // scroll the line past the id
+  for (;weight_index < NUM_CELLS && line_cursor<line_length ;line_cursor++){
+    if (line[line_cursor] ==','){ // the number representation is complted
+      t->weights[weight_index++] = atoi(num);
+      for (int i=0;i < MAX_WEIGHT_LENGHT; i++) num[i]=' '; //clean num and restart
+      num_cursor =0;
+    }else if (line[line_cursor] >= '0' && line[line_cursor]<= '9') { //new digit
+      num[num_cursor++]  = line[line_cursor];
+    }
+  }
+  return t;
 }
 
 struct linked_scenarios * load_file(char * file_name, struct linked_scenarios *root_scenario){
@@ -152,21 +159,11 @@ int  load(){
   struct linked_scenarios * current_scenario = root_scenario;
   i=0;
   while(current_scenario->next != NULL) {
-    // print_game(current_scenario->s, PRINT_PLACEHOLDER );
     current_scenario = current_scenario->next;
     i++;
   }
-  printf("...copleted"); fflush(stdout);
   root_scenario = remove_duplicates(root_scenario);
   print_linked_scenario(root_scenario, 100);
   printf("load completed"); fflush(stdout);
   return 0;
-  // int n =0;
-  // while(root_scenario->next != NULL) {
-  //   print_game(root_scenario->s, PRINT_PLACEHOLDER );
-  //   n++;
-  //   root_scenario = root_scenario->next;
-  // }
-
-  // printf("loaded %d scenarios after normalization %d", i, n);
 }

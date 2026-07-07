@@ -1,6 +1,5 @@
-
 #include <stdio.h>
-#include<time.h>
+#include <time.h>
 #include <unistd.h>
 #include <locale.h>
 #include "game.c"
@@ -26,7 +25,6 @@ void print_help(char* app_name){
 " \n", app_name , MAX_GAMES
 );
 }
-
 void interactive(){
   all_scenarios = build_root_scenario(all_scenarios);
   struct tris* root_node = all_scenarios->s;
@@ -48,7 +46,10 @@ int play_epic(int games, int epic, int total_epic){
     int i =0;
     for (i =0 ; i< games; i++ ) {
       print_progress(i,  pb);
-      play_a_game(root_scenario);
+      if (play_a_game(root_scenario) == NULL){
+        printf("\n\nERROR WHILE PLAYING A GAME\n");
+        return -1;
+      }
     }
     printf("\n\n");
     printf("\033[KSaving epic %d/%d", epic, total_epic);

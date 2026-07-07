@@ -3,5 +3,5 @@
 [[ $# -lt 2  ]] && games=1000 && epics=1
 [[ $# -eq 2 ]] && games=$1 && epics=1 
 [[ $# -eq 3  ]] && epics=$1 && games=$2
-gcc -W -Wall -O2 src/main.c -o tris &&  ./tris $@ 
+gcc -W -Wall -O2 src/main.c -g  -o tris &&  ./tris $@ 
 # gcc src/main.c -o tris &&  ./tris $@ 
