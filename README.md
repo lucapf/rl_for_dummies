@@ -24,15 +24,19 @@ rewarded when they belong to a good game.
 
 A game ends in one of two ways: * **Win **, **Pair**.
 
-When the game finishes, the moves that were played are rewarded:
+When the game finishes, the moves that were played are updated, starting from the
+**last move** and walking back to the first:
 
-* **On a win**, the moves along the **winning path get +3**, so the choices that led
-  to victory become more likely next time.
-* **On a pair**, played moves get **+1**.
+* **On a win**, the winner's moves get **+3** and the loser's moves get **-3**
+  (a weight never drops below a small floor, so no move ever becomes impossible).
+* **On a pair**, all played moves get **+1**.
+* Every step back in time the update is multiplied by a **discount factor (0.8)**:
+  the move that ended the game gets full credit (or blame), the opening move only a
+  fraction. The blunder that lost a game is punished hard; the innocent early moves
+  are barely touched.
 
-
-Because weights only ever go up, good moves gradually accumulate more "pull" and the
-system starts favouring the paths that historically worked.
+Good moves gradually accumulate more "pull" and the system starts favouring the
+paths that historically worked.
 
 ## Workflow
 
@@ -80,3 +84,16 @@ Sides are assigned at random.
 combinations barely reaches ~**8.8k**, so coverage of the state space is thin and the
 learned policy is shallow. Later versions will address this — first by improving the
 learning/exploration rule, and eventually by evolving the representation itself.
+
+### 0.0.2 — reward fixes and discounting
+
+* fixed a bug where the **winning move itself was never rewarded** (the strongest
+  learning signal was dropped every game).
+* reward scale raised from ~0.02/game to **+3 / +1** as documented, so weights
+  actually move relative to the default weight of 2.
+* updates are now **discounted (0.8 per step)** walking back from the final move,
+  so credit and blame concentrate on the moves closest to the outcome.
+
+**Observed behaviour:** after a single 20k-game epic the agent already strongly
+favours the centre reply to a corner/edge opening (weight ~50–115 vs ~0.1–1 for
+the alternatives) — something the old reward scale never achieved.

@@ -28,7 +28,7 @@ void print_help(char* app_name){
 void interactive(){
   all_scenarios = build_root_scenario(all_scenarios);
   struct tris* root_node = all_scenarios->s;
-  all_scenarios = load_file("game-100.txt", all_scenarios);
+  all_scenarios = load_file("game-100.txt");
   char c = 'Y';
   while (c == 'Y' || c == 'y'){
     play_interacting_game(root_node);
@@ -47,15 +47,16 @@ int play_epic(int games, int epic, int total_epic){
     for (i =0 ; i< games; i++ ) {
       print_progress(i,  pb);
       if (play_a_game(root_scenario) == NULL){
-        printf("\n\nERROR WHILE PLAYING A GAME\n");
+        printf("ERROR WHILE PLAYING A GAME\n");
         return -1;
       }
     }
     printf("\n\n");
     printf("\033[KSaving epic %d/%d", epic, total_epic);
     fflush(stdout);
-    print_linked_scenario(all_scenarios, epic);
-    free_scenarios(all_scenarios);
+    save(all_scenarios, epic);
+    free_scenarios(all_scenarios, TRUE);
+    free_progress_bar(pb);
     printf("..Done!\033[2A");
     fflush(stdout);
     return 0;
@@ -78,6 +79,7 @@ void run_epics(int epics, int games){
 
     if (result<0) exit(result);
   }
+  free_progress_bar(p);
   printf("\n\n\n\n");
 };
 

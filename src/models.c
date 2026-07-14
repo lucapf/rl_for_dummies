@@ -4,6 +4,8 @@
 #define SCORE_MAX_VALUE 100
 #define SCORE_MIN_VALUE 0
 #define PROGRESS_BAR_SIZE 30
+#define TRUE 1
+#define FALSE 0
 
 
 typedef struct {
@@ -18,7 +20,7 @@ typedef struct {
 
 struct tris{
  char id[NUM_CELLS+1];
- int weights[NUM_CELLS];
+ float weights[NUM_CELLS];
 };
 
 /*

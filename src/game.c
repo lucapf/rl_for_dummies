@@ -9,10 +9,14 @@
 #define MOVE_X 'X'
 #define MOVE_O 'O' 
 #define BOUNDED_NOISE 100000
-#define NOISE_RATIO 15  // % total call
+#define NOISE_RATIO 20  // % total call
 #define WEIGHT_TOLERANCE 10
 #define LIMIT (BOUNDED_NOISE * NOISE_RATIO / 100)
 #define WEIGHT_CAP 200 //cannot go more than this
+#define WEIGHT_FLOOR 0.1f //cannot go below this, so no move becomes impossible
+#define WIN_REWARD 3.0f
+#define PAIR_REWARD 1.0f
+#define DISCOUNT_FACTOR 0.8f //each step back in time the reward shrinks by this
 
 struct linked_scenarios *all_scenarios; 
 
@@ -26,12 +30,16 @@ short get_random_cell(char* id){
 }
 
 short cell_by_deterministic_score(struct tris *s){
-  int max =0, max_index=0;
-  for (int i=0;i<NUM_CELLS;i++)
-    if (max < s->weights[i]) max_index = i;
+  float max = 0;
+  short max_index = -1;
+  for (short i=0;i<NUM_CELLS;i++){
+    if (s->id[i] != ' ') continue;
+    if (max_index == -1 || s->weights[i] > max){
+      max = s->weights[i];
+      max_index = i;
+    }
+  }
   return max_index;
- 
-
 }
 
 short cell_by_probabilistic_score(struct tris* s){
@@ -39,11 +47,11 @@ short cell_by_probabilistic_score(struct tris* s){
     printf("cell_by_probabilistic_score: tris is NULL");
     return -1;
   }
-  int score = 0;
+  float score = 0;
   for (int i = 0 ; i < NUM_CELLS; i++)  score +=s->weights[i];
   if (score == 0) return -1;
-  int randomized_score = bounded_rand(score);
-  int next_move_index = 0;
+  float randomized_score = bounded_rand(score);
+  short next_move_index = 0;
   for (; next_move_index <NUM_CELLS; next_move_index ++){
     randomized_score -= s->weights[next_move_index];
     if (randomized_score < 0 ) break;
@@ -107,19 +115,24 @@ void dump_struct_error(struct linked_scenarios *s){
   printf("error! -%s- next move index: -%d- is last? %s weights:",
         s->s->id, s->next_move, (s->next->s->id) );
     for (int i =0;i< NUM_CELLS;i++){
-      printf("%d", s->s->weights[i]);
+      printf("%.2f", s->s->weights[i]);
     }
     printf("\n");
 }
 
+/*
+ * `game` is newest-first: the head is the move that ended the game,
+ * following ->next walks back in time to the opening move.
+ * The reward starts at full strength on the final move and shrinks by
+ * DISCOUNT_FACTOR at every step back, so the move that ended the game
+ * gets the most credit (or blame) and the opening move the least.
+ */
 int update_weights(struct linked_scenarios *game, char game_state, char player){
-  short reward = game_state=='P'?0:2;
-  struct linked_scenarios *cursor = game->next;
-  if (cursor->next == NULL) return 0;
-  cursor = game->next;
+  float reward = game_state=='P'?PAIR_REWARD:WIN_REWARD;
+  struct linked_scenarios *cursor = game;
   while (cursor!= NULL ){
-    if ( (cursor->s->id[cursor->next_move] !=' ') 
-        || (cursor-> next_move < 0) 
+    if ( (cursor->s->id[cursor->next_move] !=' ')
+        || (cursor-> next_move < 0)
         || (cursor-> next_move >= NUM_CELLS) ) {
         dump_struct_error(cursor);
         return -1;
@@ -129,28 +142,21 @@ int update_weights(struct linked_scenarios *game, char game_state, char player){
       cursor->s->weights[cursor->next_move] += reward;
       cursor->incremented += 1;
     }else if(game_state == 'W' && cursor->player != player){
-      cursor->s->weights[cursor->next_move] -= 1;
-      if  (cursor->s->weights[cursor->next_move] < 1 ) 
-        cursor->s->weights[cursor->next_move] = 1; 
+      cursor->s->weights[cursor->next_move] -= reward;
+      if  (cursor->s->weights[cursor->next_move] < WEIGHT_FLOOR )
+        cursor->s->weights[cursor->next_move] = WEIGHT_FLOOR;
     }
 
     if (cursor->s->weights[cursor->next_move] > WEIGHT_CAP)
       cursor->s->weights[cursor->next_move] = WEIGHT_CAP;
+    reward *= DISCOUNT_FACTOR;
     cursor= cursor->next;
   }
   return 0;
 };
 
 
-void  free_scenarios(struct linked_scenarios * g){
-  while (g->next != NULL){
-    struct linked_scenarios * current_linked_scenario  = g;
-    current_linked_scenario = g->next;
-    free(g);
-    g = current_linked_scenario;
-  }
-  free(g);
-}
+
 
 int is_next_move_valid(short next_move_index, struct  linked_scenarios *game){
   if (next_move_index == -1){
@@ -158,7 +164,7 @@ int is_next_move_valid(short next_move_index, struct  linked_scenarios *game){
     }
     if (next_move_index < 0 ) {
       printf(" NON Valid next move index. Abort %d\n", next_move_index);
-      free_scenarios(game);
+      free_scenarios(game, FALSE);   /* game list ->s are shared with all_scenarios */
       return -1;
     }
     return 0;
@@ -180,11 +186,19 @@ short user_input(struct tris *scenario, short iteration){
       ? printf("you start put a nuber between 0 and 8: ")
       :printf ("your tourn (you are player %c): ", MOVE_X);
     int ret = scanf("%hd", &next_move_index);
-    if (ret <0) {
-      printf("error reading user input. Abort %d", ret);
+    if (ret == EOF) {
+      printf("error reading user input (EOF). Abort\n");
       return -1;
     }
-    if (next_move_index < 0 && next_move_index <= NUM_CELLS){
+    if (ret != 1) {
+      /* conversion failed: bad chars are still in stdin, discard the line */
+      int c;
+      while ((c = getchar()) != '\n' && c != EOF);
+      printf("invalid input. Use numbers between 0 and 8\n");
+      is_valid_input = 1;
+      continue;
+    }
+    if (next_move_index < 0 || next_move_index >= NUM_CELLS){
       printf("invalid input %hd. Use numbers between 0 and 8\n", next_move_index);
       is_valid_input = 1;
     } else if (scenario->id[next_move_index] != ' '){
@@ -204,7 +218,7 @@ void play_interacting_game(struct tris *scenario){
   printf ("\033[2J\033[H \n Wonderful! now that I understood how tris works, let's start a new game!\n");
   for ( short i=0; i< MAX_ITERATION;i++){
     if (player == MOVE_O){
-      next_move_index = cell_by_deterministic_score(scenario);
+      next_move_index = cell_by_probabilistic_score(scenario);
     }else{
       next_move_index = user_input(scenario, i);
     }
@@ -264,9 +278,9 @@ struct tris *play_a_game(struct tris *root_scenario){
 
     game = add_game_to_scenario(new_tris, game);
 
-    if (game_state == 'P' || game_state == 'W' )  break; 
+    free(new_cell_id);   /* already copied by build_scenario; free before the break */
+    if (game_state == 'P' || game_state == 'W' )  break;
     player = player==MOVE_X?MOVE_O:MOVE_X;
-    free(new_cell_id);
   }
 
   if (game_state == 'P' || game_state == 'W' ){
@@ -275,7 +289,7 @@ struct tris *play_a_game(struct tris *root_scenario){
       return NULL;
     }
   }
-  free_scenarios(game);
+  free_scenarios(game, FALSE);
   return  new_tris;
 }
 

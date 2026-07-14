@@ -14,10 +14,11 @@
 #define  PRINT_PLACEHOLDER 1
 
 /* because rand doesn't really work */
-int bounded_rand(int range){
-  int divisor = RAND_MAX / range;  
-  int limit   = range * divisor;  
-  int r;
+float bounded_rand(float range){
+  if (range <= 0) return 0;        /* avoid limit==0 -> infinite rejection loop */
+  float divisor = (range > 1)?RAND_MAX/range:RAND_MAX;
+  float limit   = range * divisor;
+  float r;
   do { r = rand(); } while (r >= limit);
   return r / divisor;
 }
@@ -62,6 +63,7 @@ struct linked_scenarios * build_root_scenario(struct linked_scenarios *all_scena
     all_scenarios->next = NULL;
     all_scenarios->incremented = 0;
     all_scenarios->next_move = -1;
+    free(id);
     return all_scenarios;
 }
 
@@ -132,7 +134,7 @@ void print_game(struct tris *s, short print_mode ){
       index_value[1]='\0';
       printf("%s ", s->id[i - offset] ==' '?placeholder:index_value);
     }else{
-      printf("%8d",s->weights[weight_index]);
+      printf("%7.03f ",s->weights[weight_index]);
     }
     if ((i+1) % CELL_PER_ROW == 0) printf("||");
     if ((i+1) % ( 2*CELL_PER_ROW) == 0) printf("\n");
@@ -144,6 +146,7 @@ void print_game(struct tris *s, short print_mode ){
 
 progress_bar *progress_bar_init(int items, char* prefix, char* postfix){
   progress_bar *p= malloc(sizeof(progress_bar));
+  p->content = NULL;   /* so free_progress_bar is safe on early-return paths */
   size_t prefix_size = strlen(prefix);
   size_t postfix_size = strlen(postfix);
   size_t postfix_start_index = PROGRESS_BAR_SIZE - postfix_size;
@@ -181,14 +184,24 @@ void print_progress(int current_iteration, progress_bar *p){
       block_to_add = p->items - p->progress_bar_size;
 
     // printf("current iteration %d - bs: %d - indx: %d - -%s-\n", current_iteration,p->items_per_block,  p->current_index, p->content);
-    if ((p->items_per_block < 1) || (current_iteration % (int)floor(p->items_per_block)) ==0) {
+    if ((p->items_per_block < 1) 
+        || (current_iteration % (int)floor(p->items_per_block)) ==0) {
       for (int i =0;i<block_to_add;i++) p->content[p->current_index++] ='#';
-       printf("\r%s%%\033[K", p->content);
     }
-    fflush(stdout);
-} 
 
-void print_linked_scenario(struct linked_scenarios *ls, int e){
+    if ((p->items_per_block < 1) || (current_iteration % 1000) == 0)
+      printf("\r%s  [%d] %%\033[K", p->content, current_iteration);
+    fflush(stdout);
+}
+
+
+void free_progress_bar(progress_bar *p){
+  if (p == NULL) return;
+  free(p->content);
+  free(p);
+}
+
+void save(struct linked_scenarios *ls, int e){
   struct linked_scenarios* current_scenario = ls;
   char*  filename;
   filename = string_decimal_format("game-%d.txt",e );
@@ -199,13 +212,26 @@ void print_linked_scenario(struct linked_scenarios *ls, int e){
       fprintf(f,"%c" ,current_scenario->s->id[i]);
     fprintf(f,";");
     for (int i = 0; i< NUM_CELLS;i++)
-      fprintf(f,"%5d," ,current_scenario->s->weights[i]);
+      fprintf(f,"%3.3f," ,current_scenario->s->weights[i]);
     
     fprintf(f,"incremented %d;\n", current_scenario->incremented);
     current_scenario = current_scenario->next;
   }
   fclose(f);
   free(filename);
+};
+
+
+void  free_scenarios(struct linked_scenarios * g, short deep){
+  while (g->next != NULL){
+    struct linked_scenarios * current_linked_scenario  = g;
+    current_linked_scenario = g->next;
+    if (deep == TRUE) free(g->s);
+    free(g);
+    g = current_linked_scenario;
+  }
+  if (deep == TRUE) free(g->s);   /* tail (root) node too */
+  free(g);
 };
 
 char another_game(char c){

@@ -24,29 +24,33 @@ struct tris* report_line_to_tris(char * line){
   // scroll the line past the id
   for (;weight_index < NUM_CELLS && line_cursor<line_length ;line_cursor++){
     if (line[line_cursor] ==','){ // the number representation is complted
-      t->weights[weight_index++] = atoi(num);
+      t->weights[weight_index++] = atof(num);
       for (int i=0;i < MAX_WEIGHT_LENGHT; i++) num[i]=' '; //clean num and restart
       num_cursor =0;
-    }else if (line[line_cursor] >= '0' && line[line_cursor]<= '9') { //new digit
+    }else if (   (line[line_cursor] >= '0' && line[line_cursor]<= '9')
+              || (line[line_cursor] =='.') ) { //new digit
       num[num_cursor++]  = line[line_cursor];
     }
   }
   return t;
 }
 
-struct linked_scenarios * load_file(char * file_name, struct linked_scenarios *root_scenario){
+struct linked_scenarios * load_file(char * file_name ){
+  struct linked_scenarios * root_scenario  = malloc(sizeof(struct linked_scenarios));
+  root_scenario  =build_root_scenario(root_scenario);
+
   FILE *f = fopen(file_name, "r");
   char line[100];
   while (1){
     char *res = fgets(line, 100,f);
     if (res == NULL) break;
     struct tris *t = report_line_to_tris(line);
-    struct linked_scenarios *f_scenario = 
-          malloc(sizeof(struct linked_scenarios));
+    struct linked_scenarios *f_scenario = malloc(sizeof(struct linked_scenarios));
     f_scenario->s = t;
     f_scenario->next = root_scenario;
     root_scenario = f_scenario;
   }
+  fclose(f);
   return  root_scenario;
 }
 
@@ -68,11 +72,14 @@ char** read_current_dir(void){
     if  (entry->d_type == DT_REG){
       rc = regexec(&regex, entry->d_name, 0, NULL, 0);
       if (rc == 0) {
-        file_list[i++]= entry->d_name;
+        file_list[i] = malloc((strlen(entry->d_name) + 1 ) *sizeof(char));
+        strcpy(file_list[i++], entry->d_name);
       } 
     }
   }
+  file_list[i] = NULL;
   regfree(&regex);
+  closedir(current_dir);
   return file_list;
 };
 
@@ -105,65 +112,80 @@ int sum_weight(struct tris * t){
   return w; 
 }
 
-struct linked_scenarios * remove_duplicates( struct linked_scenarios * root_scenario){
-  struct  linked_scenarios *normalized, *root_cursor;
-  struct tris **list_of_tris;
-  normalized = malloc(sizeof(struct linked_scenarios));
-  normalized = build_root_scenario(normalized);
-  int size = linked_scenario_size(root_scenario);
-  list_of_tris = build_list(root_scenario, size);
-  int index = 0;
-  while (index < size-1) {
-    if (index % 100 ==0) { 
-      printf("\r\033[K normalized: %d/%d", index, size);
-      fflush(stdout);
-    }
-    index++;
-    struct tris * item = list_of_tris[index];
-    if (item == NULL){
-      printf("unexpected! at index %d got null", index);
-    }
-    if (get_scenario_by_id(normalized, item->id) !=NULL){
-      continue;
-    }
-     
-    int offset = index +1;
-    while(offset >=0){
-      offset = tris_lookup(list_of_tris, item->id, offset, size);
-      if(offset >=0){
-        if (sum_weight(item) < sum_weight(list_of_tris[offset]) ){
-          item = list_of_tris[offset];
-        }
-        offset++;
-      }
-    }
-    struct linked_scenarios *new_item = malloc(sizeof(struct linked_scenarios));
-    new_item->s = item;
-    new_item->next = normalized;
-    normalized = new_item;
-    root_cursor = root_cursor->next;
-  }
-  printf("normalized\n");
-  return normalized;
-}
+// struct linked_scenarios * remove_duplicates( struct linked_scenarios * root_scenario){
+//   struct  linked_scenarios *normalized, *root_cursor;
+//   struct tris **list_of_tris;
+//   normalized = malloc(sizeof(struct linked_scenarios));
+//   normalized = build_root_scenario(normalized);
+//   int size = linked_scenario_size(root_scenario);
+//   list_of_tris = build_list(root_scenario, size);
+//   int index = 0;
+//   while (index < size-1) {
+//     if (index % 100 ==0) { 
+//       printf("\r\033[K normalized: %d/%d", index, size);
+//       fflush(stdout);
+//     }
+//     index++;
+//     struct tris * item = list_of_tris[index];
+//     if (item == NULL){
+//       printf("unexpected! at index %d got null", index);
+//     }
+//     if (get_scenario_by_id(normalized, item->id) !=NULL){
+//       continue;
+//     }
+//
+//     int offset = index +1;
+//     while(offset >=0){
+//       offset = tris_lookup(list_of_tris, item->id, offset, size);
+//       if(offset >=0){
+//         if (sum_weight(item) < sum_weight(list_of_tris[offset]) ){
+//           item = list_of_tris[offset];
+//         }
+//         offset++;
+//       }
+//     }
+//     struct linked_scenarios *new_item = malloc(sizeof(struct linked_scenarios));
+//     new_item->s = item;
+//     new_item->next = normalized;
+//     normalized = new_item;
+//     root_cursor = root_cursor->next;
+//   }
+//   printf("normalized\n");
+//   return normalized;
+// }
 
 int  load(){
   printf("start loading scenarios"); fflush(stdout);
-  char ** l = read_current_dir();
-  struct linked_scenarios *root_scenario;
-  root_scenario = malloc(sizeof(struct linked_scenarios));
-  root_scenario = build_root_scenario(root_scenario);
+  char ** game_file = read_current_dir();
+  struct linked_scenarios *normalized_scenarios;
+  normalized_scenarios = malloc(sizeof(struct linked_scenarios));
+  normalized_scenarios = build_root_scenario(normalized_scenarios);
   int i = 0;
-  while(l[i] != NULL)
-    root_scenario = load_file(l[i++], root_scenario);
-  struct linked_scenarios * current_scenario = root_scenario;
-  i=0;
-  while(current_scenario->next != NULL) {
-    current_scenario = current_scenario->next;
-    i++;
+  while(game_file[i] != NULL){
+    struct linked_scenarios  *file_cursor, *file_root_node;
+    printf("loading file: %s ", game_file[i]); fflush(stdout);
+    file_root_node = load_file(game_file[i++]);
+    file_cursor = file_root_node;
+    while(file_cursor != NULL && file_cursor->next != NULL){
+        struct tris *t = get_scenario_by_id(normalized_scenarios, file_cursor->s->id );
+        if (t != NULL && (sum_weight(t) < sum_weight(file_cursor->s))){
+           memcpy(t, file_cursor->s, sizeof(*file_cursor->s));
+           t = file_cursor->s;
+        }else if (t == NULL){
+          struct linked_scenarios *new_entry = malloc(sizeof(struct linked_scenarios));
+          new_entry->s = malloc(sizeof(struct tris));
+          memcpy(new_entry->s, file_cursor->s, sizeof(*file_cursor->s));
+          new_entry->next = normalized_scenarios;
+          normalized_scenarios = new_entry;
+        }
+        file_cursor = file_cursor->next;
+    }
+    free_scenarios(file_root_node, TRUE);
   }
-  root_scenario = remove_duplicates(root_scenario);
-  print_linked_scenario(root_scenario, 100);
+  save(normalized_scenarios, 100);
+  free_scenarios(normalized_scenarios, TRUE);
   printf("load completed"); fflush(stdout);
+  for (int i=0;game_file[i] != NULL; i++) free(game_file[i]);
+  free(game_file);
   return 0;
 }

@@ -1,0 +1,7650 @@
+
+
+
+
+
+
+
+[6A--------------------[BLearning: epics: 1 | iteration per epics: 1,000 | total games to play 1,000![5B[1BTotal [                      ]%[K[Acontent [#                   ]%[Kscore way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3461 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7649 bound 10000
+score way
+score way
+getting random move! noise 9075 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4697 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 750 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9839 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 83 bound 10000
+score way
+getting random move! noise 3056 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 160 bound 10000
+getting random move! noise 2758 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 8180 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9034 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9637 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2154 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8529 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9873 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8342 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5009 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 309 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 3808 bound 10000
+getting random move! noise 5169 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2958 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3180 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8086 bound 10000
+score way
+score way
+getting random move! noise 6828 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 5730 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4858 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5978 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6523 bound 10000
+content [##                  ]%[Kscore way
+score way
+getting random move! noise 5331 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 9135 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5798 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5814 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6243 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8063 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9401 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3844 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 939 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8783 bound 10000
+getting random move! noise 7714 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3723 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3061 bound 10000
+score way
+getting random move! noise 4403 bound 10000
+getting random move! noise 692 bound 10000
+score way
+getting random move! noise 3298 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4799 bound 10000
+getting random move! noise 7860 bound 10000
+getting random move! noise 2360 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4462 bound 10000
+score way
+score way
+score way
+getting random move! noise 83 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5222 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3184 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8724 bound 10000
+score way
+score way
+getting random move! noise 7860 bound 10000
+getting random move! noise 3370 bound 10000
+score way
+score way
+score way
+getting random move! noise 7866 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 9947 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4545 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4350 bound 10000
+score way
+getting random move! noise 7739 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7745 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7867 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3278 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3353 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+content [###                 ]%[Kscore way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4107 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7202 bound 10000
+score way
+score way
+getting random move! noise 8022 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4577 bound 10000
+score way
+score way
+getting random move! noise 9957 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1299 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4804 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6152 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2792 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2532 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7709 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7223 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 4509 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7132 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 7838 bound 10000
+score way
+getting random move! noise 2009 bound 10000
+score way
+getting random move! noise 9336 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2652 bound 10000
+score way
+score way
+getting random move! noise 9059 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 960 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5365 bound 10000
+getting random move! noise 4173 bound 10000
+getting random move! noise 6217 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5570 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7793 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4674 bound 10000
+score way
+score way
+score way
+getting random move! noise 7554 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7765 bound 10000
+score way
+score way
+getting random move! noise 210 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8780 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 8196 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1007 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 269 bound 10000
+score way
+getting random move! noise 814 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5892 bound 10000
+score way
+getting random move! noise 3252 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6461 bound 10000
+score way
+score way
+score way
+content [####                ]%[Kscore way
+score way
+getting random move! noise 5085 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6348 bound 10000
+score way
+getting random move! noise 3278 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5360 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1257 bound 10000
+score way
+score way
+score way
+getting random move! noise 8741 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7954 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4641 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5897 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9149 bound 10000
+score way
+getting random move! noise 9279 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 555 bound 10000
+score way
+score way
+getting random move! noise 5036 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7120 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7826 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7945 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2623 bound 10000
+score way
+score way
+score way
+getting random move! noise 4583 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6919 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9176 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7533 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7047 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 159 bound 10000
+getting random move! noise 5228 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4525 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 341 bound 10000
+score way
+score way
+getting random move! noise 746 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 262 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4758 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8322 bound 10000
+getting random move! noise 3512 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8860 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4975 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 154 bound 10000
+getting random move! noise 6286 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9518 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9852 bound 10000
+score way
+score way
+content [#####               ]%[Kscore way
+score way
+score way
+getting random move! noise 7198 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6715 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5139 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 61 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2539 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8496 bound 10000
+score way
+getting random move! noise 6440 bound 10000
+getting random move! noise 4816 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1425 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6379 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 825 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3013 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8030 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 184 bound 10000
+getting random move! noise 8180 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 2440 bound 10000
+getting random move! noise 7640 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2592 bound 10000
+score way
+score way
+getting random move! noise 5979 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7121 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7445 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 766 bound 10000
+score way
+score way
+getting random move! noise 6100 bound 10000
+score way
+score way
+getting random move! noise 8274 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2205 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8921 bound 10000
+getting random move! noise 6148 bound 10000
+score way
+score way
+score way
+getting random move! noise 8365 bound 10000
+score way
+score way
+score way
+getting random move! noise 4332 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7162 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2427 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3334 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3099 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 9578 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6414 bound 10000
+score way
+score way
+getting random move! noise 1493 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 731 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4585 bound 10000
+getting random move! noise 2414 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+content [######              ]%[Kscore way
+score way
+getting random move! noise 8018 bound 10000
+score way
+getting random move! noise 388 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9359 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9150 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1150 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3201 bound 10000
+score way
+score way
+getting random move! noise 564 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2201 bound 10000
+score way
+score way
+getting random move! noise 4634 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5880 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8131 bound 10000
+score way
+getting random move! noise 3567 bound 10000
+score way
+score way
+score way
+getting random move! noise 9811 bound 10000
+score way
+getting random move! noise 3354 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3030 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3502 bound 10000
+score way
+score way
+getting random move! noise 6755 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 2215 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 775 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9483 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9349 bound 10000
+getting random move! noise 1266 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3009 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1602 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2291 bound 10000
+getting random move! noise 2205 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2778 bound 10000
+score way
+score way
+score way
+getting random move! noise 1601 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1549 bound 10000
+score way
+score way
+score way
+getting random move! noise 1800 bound 10000
+score way
+score way
+getting random move! noise 1323 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3205 bound 10000
+score way
+getting random move! noise 4742 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3356 bound 10000
+score way
+getting random move! noise 609 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4176 bound 10000
+score way
+getting random move! noise 526 bound 10000
+score way
+getting random move! noise 9256 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7049 bound 10000
+score way
+getting random move! noise 544 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9174 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 741 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 2506 bound 10000
+score way
+getting random move! noise 6631 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+content [#######             ]%[Kscore way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8768 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2951 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9323 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5519 bound 10000
+getting random move! noise 614 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3479 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5964 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8394 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2501 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2114 bound 10000
+score way
+score way
+getting random move! noise 4035 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1516 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9435 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 954 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2906 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7203 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 586 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2418 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2760 bound 10000
+getting random move! noise 4347 bound 10000
+getting random move! noise 2813 bound 10000
+score way
+score way
+score way
+getting random move! noise 5161 bound 10000
+score way
+getting random move! noise 9731 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1366 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 1120 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5633 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8675 bound 10000
+getting random move! noise 1304 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 0 bound 10000
+score way
+score way
+score way
+getting random move! noise 7953 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7845 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7742 bound 10000
+score way
+score way
+score way
+getting random move! noise 7649 bound 10000
+score way
+score way
+score way
+score way
+content [########            ]%[Kscore way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1910 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2017 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5386 bound 10000
+score way
+score way
+score way
+getting random move! noise 6498 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3905 bound 10000
+getting random move! noise 4365 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1072 bound 10000
+score way
+score way
+getting random move! noise 1246 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7030 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3458 bound 10000
+score way
+score way
+score way
+getting random move! noise 6282 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6570 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2342 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8246 bound 10000
+score way
+getting random move! noise 602 bound 10000
+score way
+getting random move! noise 4872 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6171 bound 10000
+getting random move! noise 1639 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 2966 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6252 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 502 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1004 bound 10000
+score way
+getting random move! noise 8777 bound 10000
+score way
+score way
+getting random move! noise 5610 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4247 bound 10000
+score way
+score way
+getting random move! noise 161 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1207 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8482 bound 10000
+score way
+score way
+getting random move! noise 5576 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 558 bound 10000
+score way
+score way
+getting random move! noise 6278 bound 10000
+score way
+getting random move! noise 5156 bound 10000
+score way
+score way
+getting random move! noise 4142 bound 10000
+score way
+getting random move! noise 532 bound 10000
+score way
+score way
+score way
+getting random move! noise 2573 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9578 bound 10000
+getting random move! noise 7369 bound 10000
+getting random move! noise 5522 bound 10000
+score way
+score way
+score way
+getting random move! noise 7580 bound 10000
+score way
+score way
+getting random move! noise 431 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3836 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4853 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 1043 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8412 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1534 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3945 bound 10000
+score way
+getting random move! noise 6319 bound 10000
+content [#########           ]%[Kscore way
+getting random move! noise 135 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4149 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1468 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1329 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2972 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1777 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5642 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 7324 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6261 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9976 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6013 bound 10000
+score way
+score way
+getting random move! noise 2835 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5656 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4679 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8305 bound 10000
+getting random move! noise 3859 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5116 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 680 bound 10000
+score way
+score way
+score way
+getting random move! noise 4045 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4560 bound 10000
+score way
+score way
+getting random move! noise 4726 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 5339 bound 10000
+score way
+getting random move! noise 7410 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4608 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6585 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1281 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1036 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2202 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1025 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8740 bound 10000
+score way
+getting random move! noise 395 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9795 bound 10000
+score way
+score way
+getting random move! noise 521 bound 10000
+getting random move! noise 950 bound 10000
+score way
+score way
+score way
+getting random move! noise 3011 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 5353 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 952 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+content [##########          ]%[Kscore way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6658 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7744 bound 10000
+score way
+score way
+score way
+getting random move! noise 9581 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3745 bound 10000
+score way
+score way
+score way
+getting random move! noise 7540 bound 10000
+score way
+getting random move! noise 1926 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5638 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9743 bound 10000
+score way
+getting random move! noise 2342 bound 10000
+getting random move! noise 7692 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 3446 bound 10000
+getting random move! noise 6863 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7067 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 6586 bound 10000
+score way
+score way
+score way
+getting random move! noise 6629 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8689 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1123 bound 10000
+score way
+score way
+score way
+getting random move! noise 6616 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8013 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 635 bound 10000
+score way
+score way
+getting random move! noise 8569 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 5725 bound 10000
+score way
+score way
+score way
+getting random move! noise 5232 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 6720 bound 10000
+score way
+score way
+getting random move! noise 8359 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 689 bound 10000
+getting random move! noise 8356 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7041 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2159 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9487 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3197 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9961 bound 10000
+score way
+getting random move! noise 1902 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5773 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2844 bound 10000
+score way
+getting random move! noise 7524 bound 10000
+score way
+getting random move! noise 9340 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9474 bound 10000
+score way
+getting random move! noise 3442 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 5181 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3921 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 117 bound 10000
+score way
+getting random move! noise 811 bound 10000
+score way
+getting random move! noise 1824 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 271 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7270 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6277 bound 10000
+score way
+getting random move! noise 6798 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+content [###########         ]%[Kscore way
+score way
+score way
+getting random move! noise 4063 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5531 bound 10000
+score way
+score way
+getting random move! noise 255 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2892 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 414 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5013 bound 10000
+score way
+score way
+getting random move! noise 2388 bound 10000
+score way
+score way
+score way
+getting random move! noise 3785 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4881 bound 10000
+score way
+score way
+score way
+getting random move! noise 5649 bound 10000
+score way
+getting random move! noise 880 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4254 bound 10000
+score way
+getting random move! noise 5167 bound 10000
+getting random move! noise 5768 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 3650 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2907 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 292 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3196 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9277 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5484 bound 10000
+getting random move! noise 4468 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6464 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3499 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5850 bound 10000
+getting random move! noise 1876 bound 10000
+score way
+score way
+score way
+getting random move! noise 7020 bound 10000
+score way
+score way
+score way
+getting random move! noise 6830 bound 10000
+score way
+getting random move! noise 3656 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4047 bound 10000
+getting random move! noise 46 bound 10000
+score way
+score way
+getting random move! noise 3048 bound 10000
+getting random move! noise 8604 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8789 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7118 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+content [############        ]%[Kscore way
+score way
+getting random move! noise 6064 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 482 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5288 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 50 bound 10000
+getting random move! noise 9058 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6224 bound 10000
+score way
+score way
+getting random move! noise 2514 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9972 bound 10000
+score way
+getting random move! noise 1751 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4932 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1448 bound 10000
+score way
+getting random move! noise 8265 bound 10000
+score way
+getting random move! noise 2750 bound 10000
+getting random move! noise 7282 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3495 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 1274 bound 10000
+score way
+score way
+getting random move! noise 4349 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5125 bound 10000
+getting random move! noise 6399 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5038 bound 10000
+getting random move! noise 6035 bound 10000
+score way
+getting random move! noise 161 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5768 bound 10000
+getting random move! noise 4592 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9791 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 448 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8815 bound 10000
+getting random move! noise 6033 bound 10000
+score way
+score way
+getting random move! noise 2167 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2676 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 771 bound 10000
+score way
+score way
+getting random move! noise 6845 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 4665 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8642 bound 10000
+score way
+score way
+score way
+getting random move! noise 8179 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5260 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 5124 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4468 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7590 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 821 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7223 bound 10000
+score way
+score way
+score way
+score way
+content [#############       ]%[Kscore way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7066 bound 10000
+score way
+score way
+score way
+getting random move! noise 5 bound 10000
+getting random move! noise 6672 bound 10000
+score way
+getting random move! noise 262 bound 10000
+score way
+score way
+score way
+getting random move! noise 445 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1820 bound 10000
+score way
+score way
+score way
+getting random move! noise 7791 bound 10000
+score way
+getting random move! noise 8659 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 204 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7420 bound 10000
+getting random move! noise 9357 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5640 bound 10000
+getting random move! noise 1794 bound 10000
+getting random move! noise 1434 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8277 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6927 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1182 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2413 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9772 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1046 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2567 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2775 bound 10000
+getting random move! noise 4184 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4868 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6521 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 208 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 586 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6159 bound 10000
+score way
+score way
+getting random move! noise 6128 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7177 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1124 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5339 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4156 bound 10000
+getting random move! noise 40 bound 10000
+score way
+score way
+score way
+getting random move! noise 5374 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+content [##############      ]%[Kscore way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9102 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7715 bound 10000
+score way
+getting random move! noise 3540 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9075 bound 10000
+score way
+score way
+score way
+getting random move! noise 8551 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 7378 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2693 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1073 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9530 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9614 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5772 bound 10000
+score way
+score way
+score way
+getting random move! noise 815 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4851 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7394 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3900 bound 10000
+score way
+getting random move! noise 4615 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6963 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 437 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6633 bound 10000
+score way
+score way
+getting random move! noise 3387 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6897 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2819 bound 10000
+getting random move! noise 5294 bound 10000
+score way
+getting random move! noise 2116 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1619 bound 10000
+score way
+score way
+score way
+getting random move! noise 7558 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4218 bound 10000
+getting random move! noise 2996 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3899 bound 10000
+score way
+getting random move! noise 4639 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 959 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2474 bound 10000
+score way
+content [###############     ]%[Kscore way
+score way
+score way
+score way
+score way
+getting random move! noise 1757 bound 10000
+getting random move! noise 8793 bound 10000
+score way
+score way
+getting random move! noise 2832 bound 10000
+score way
+score way
+getting random move! noise 4449 bound 10000
+score way
+getting random move! noise 1416 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4334 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3636 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3566 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2719 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5439 bound 10000
+score way
+score way
+getting random move! noise 8729 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 153 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1892 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 8230 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1495 bound 10000
+score way
+score way
+getting random move! noise 504 bound 10000
+score way
+getting random move! noise 5758 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3932 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 764 bound 10000
+score way
+getting random move! noise 2145 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9704 bound 10000
+score way
+getting random move! noise 7725 bound 10000
+score way
+getting random move! noise 747 bound 10000
+score way
+getting random move! noise 957 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8733 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1420 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 7968 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 9089 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7986 bound 10000
+score way
+score way
+score way
+getting random move! noise 5905 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6669 bound 10000
+getting random move! noise 7278 bound 10000
+getting random move! noise 6815 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3552 bound 10000
+getting random move! noise 3030 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4580 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5980 bound 10000
+score way
+score way
+getting random move! noise 8858 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2426 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9013 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 8189 bound 10000
+getting random move! noise 1158 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 7687 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6470 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1857 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6624 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2162 bound 10000
+score way
+score way
+score way
+score way
+content [################    ]%[Kscore way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9805 bound 10000
+score way
+score way
+getting random move! noise 3332 bound 10000
+getting random move! noise 4078 bound 10000
+getting random move! noise 5512 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8378 bound 10000
+score way
+score way
+score way
+getting random move! noise 4013 bound 10000
+score way
+score way
+getting random move! noise 4480 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8455 bound 10000
+score way
+getting random move! noise 2250 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3245 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 695 bound 10000
+score way
+getting random move! noise 240 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4445 bound 10000
+score way
+getting random move! noise 790 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4206 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 8493 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6277 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1800 bound 10000
+score way
+score way
+score way
+getting random move! noise 9578 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8256 bound 10000
+getting random move! noise 7598 bound 10000
+score way
+getting random move! noise 6367 bound 10000
+getting random move! noise 790 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 4581 bound 10000
+getting random move! noise 5661 bound 10000
+score way
+score way
+getting random move! noise 5845 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 306 bound 10000
+score way
+score way
+getting random move! noise 3957 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7205 bound 10000
+score way
+score way
+score way
+getting random move! noise 4313 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8393 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 880 bound 10000
+score way
+score way
+getting random move! noise 8432 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7576 bound 10000
+score way
+score way
+score way
+getting random move! noise 780 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4148 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5997 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1296 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5596 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4735 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+content [#################   ]%[Kscore way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3074 bound 10000
+getting random move! noise 2578 bound 10000
+score way
+getting random move! noise 3425 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4377 bound 10000
+getting random move! noise 6480 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2156 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 65 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5524 bound 10000
+score way
+getting random move! noise 736 bound 10000
+getting random move! noise 303 bound 10000
+getting random move! noise 369 bound 10000
+score way
+getting random move! noise 7121 bound 10000
+score way
+score way
+getting random move! noise 5509 bound 10000
+getting random move! noise 544 bound 10000
+score way
+getting random move! noise 5575 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5841 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6313 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8261 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9478 bound 10000
+score way
+score way
+score way
+getting random move! noise 2725 bound 10000
+getting random move! noise 2503 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7562 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4021 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5100 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5269 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3940 bound 10000
+score way
+score way
+getting random move! noise 6742 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6934 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2595 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5795 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2586 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 2264 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1071 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9052 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2553 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 4727 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 1315 bound 10000
+score way
+getting random move! noise 5424 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3108 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5151 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4655 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1453 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1992 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1425 bound 10000
+score way
+getting random move! noise 560 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 2294 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2055 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5237 bound 10000
+score way
+score way
+score way
+content [##################  ]%[Kscore way
+score way
+score way
+score way
+score way
+getting random move! noise 8288 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8885 bound 10000
+score way
+score way
+getting random move! noise 5566 bound 10000
+score way
+score way
+getting random move! noise 1943 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 3494 bound 10000
+getting random move! noise 9842 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 958 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2139 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7753 bound 10000
+score way
+score way
+score way
+getting random move! noise 9375 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1464 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6475 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7524 bound 10000
+score way
+score way
+getting random move! noise 2789 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1872 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1703 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8716 bound 10000
+score way
+score way
+score way
+getting random move! noise 9880 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7016 bound 10000
+score way
+score way
+score way
+getting random move! noise 9551 bound 10000
+getting random move! noise 2569 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7206 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5749 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8411 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3937 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 949 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6099 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8609 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 8111 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2566 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2661 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3837 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4710 bound 10000
+score way
+getting random move! noise 3923 bound 10000
+getting random move! noise 9544 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 5374 bound 10000
+score way
+score way
+score way
+getting random move! noise 3418 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7688 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5371 bound 10000
+score way
+score way
+content [################### ]%[Kscore way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8433 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2988 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8126 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4246 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3880 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9361 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5803 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2698 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4542 bound 10000
+score way
+score way
+score way
+getting random move! noise 8631 bound 10000
+score way
+getting random move! noise 7902 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 9616 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3458 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7798 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2148 bound 10000
+getting random move! noise 4064 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5949 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2811 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 28 bound 10000
+score way
+score way
+getting random move! noise 5488 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6057 bound 10000
+score way
+score way
+score way
+getting random move! noise 4226 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4793 bound 10000
+score way
+getting random move! noise 9792 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1899 bound 10000
+score way
+score way
+score way
+score way
+score way
+content [####################]%[Kscore way
+score way
+getting random move! noise 1967 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7927 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 484 bound 10000
+score way
+score way
+getting random move! noise 4401 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6944 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6476 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 8514 bound 10000
+score way
+getting random move! noise 712 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 2361 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5803 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 9081 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3346 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7623 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1210 bound 10000
+score way
+score way
+score way
+getting random move! noise 5984 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 1477 bound 10000
+score way
+score way
+getting random move! noise 9566 bound 10000
+score way
+score way
+getting random move! noise 8626 bound 10000
+getting random move! noise 3162 bound 10000
+score way
+score way
+getting random move! noise 882 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 5527 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4991 bound 10000
+getting random move! noise 5996 bound 10000
+score way
+getting random move! noise 8749 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 252 bound 10000
+score way
+score way
+score way
+getting random move! noise 2587 bound 10000
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7730 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3475 bound 10000
+score way
+score way
+score way
+score way
+getting random move! noise 3525 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 6645 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4789 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 1620 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 3046 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7496 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 4982 bound 10000
+getting random move! noise 3917 bound 10000
+score way
+score way
+score way
+getting random move! noise 9700 bound 10000
+getting random move! noise 6549 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 7093 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 960 bound 10000
+score way
+score way
+score way
+getting random move! noise 5864 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+getting random move! noise 21 bound 10000
+getting random move! noise 1553 bound 10000
+getting random move! noise 4433 bound 10000
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+score way
+
+
+[KSaving epic 1/1..Done![2A
+
+
+
